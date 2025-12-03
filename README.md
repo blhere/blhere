@@ -25,7 +25,7 @@ Node.js, Express.js
 
 REST APIs, JWT, OAuth
 
-PHP, Laravel,Java,Springboot
+PHP, Laravel, Java, Springboot
 
 *Database*
 
@@ -47,5 +47,3 @@ Full authentication, cart, order flow, admin features.
 
 🔐 Auth API (Node.js)
 JWT login, signup.
-
-Java, Spring Boot
