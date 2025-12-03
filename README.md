@@ -1,16 +1,51 @@
-## Hi there 👋
 
-<!--
-**blhere/blhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hey, I'm Sam
+🚀 Full Stack Developer | Frontend Specialist | API Builder
 
-Here are some ideas to get you started:
+I build fast, responsive, and clean web applications using React, Node.js, Express, and MongoDB, Springboot, PHP.
+I enjoy turning complex problems into simple, beautiful solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Code. Create. Improve. Repeat.
+
+⚡ Tech Stack
+
+*Frontend*
+
+React.js, React Hooks, React Router, React Query
+
+JavaScript (ES6+), TypeScript
+
+HTML5, CSS3, Tailwind CSS, Bootstrap
+
+Redux Toolkit, Context API
+
+*Backend*
+
+Node.js, Express.js
+
+REST APIs, JWT, OAuth
+
+PHP, Laravel,Java,Springboot
+
+*Database*
+
+MongoDB, Mongoose
+
+MySQL
+
+*Cloud & Tools*
+
+AWS (EC2, S3)
+
+Git, GitHub
+
+Postman, VS Code,Eclipse
+
+🛠️ Featured Projects
+🛒 MERN E-Commerce
+Full authentication, cart, order flow, admin features.
+
+🔐 Auth API (Node.js)
+JWT login, signup.
+
+Java, Spring Boot
